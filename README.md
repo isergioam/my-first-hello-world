@@ -1,2 +1,2 @@
-# my-first-hello-world
-My 1st example
+# Hello, World!
+This is my first example.
