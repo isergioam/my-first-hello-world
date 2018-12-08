@@ -1,0 +1,28 @@
+$color-principal: #EE6B01 !important;
+$color-white: #FFF;
+
+.jumbotron {
+    background-color: $color-principal;
+    color: $color-white;
+    padding: 1rem 1rem 2rem !important;
+    margin: 0 !important;
+    border-radius: 0% !important;
+}
+
+.jumbotron p {
+    margin: 0 2rem;
+}
+
+.hazte-solbooker {
+    color: $color-principal;
+    padding: 1rem;
+}
+
+.resultAvg {
+    padding: 1rem;
+}
+
+img {
+    display: block;
+    width: 200px;
+}
