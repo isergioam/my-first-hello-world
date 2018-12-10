@@ -1,5 +1,11 @@
 $color-principal: #EE6B01 !important;
+$color-fondo: #FFC799 !important;
 $color-white: #FFF;
+
+html,
+body {
+    background-color: $color-fondo;
+}
 
 .jumbotron {
     background-color: $color-principal;
@@ -13,12 +19,8 @@ $color-white: #FFF;
     margin: 0 2rem;
 }
 
-.hazte-solbooker {
+.hola-mundo {    
     color: $color-principal;
-    padding: 1rem;
-}
-
-.resultAvg {
     padding: 1rem;
 }
 
