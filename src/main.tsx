@@ -1,8 +1,6 @@
 import * as React from 'react';
 import * as ReactDOM from 'react-dom';
 
-import './content/scss/styles.scss';
-
 const holaMundo = React.createElement('h1', {}, 'Hola, Mundo!');
 
 export const App: React.StatelessComponent<{}> = () => {
