@@ -1,7 +1,7 @@
 {
   "name": "my-first-hello-world",
   "version": "1.0.0",
-  "description": "This is my first example.",
+  "description": "Este es mi primer ejemplo.",
   "scripts": {
     "start": "webpack-dev-server  --mode development --inline --hot --open",
     "build": "webpack  --mode development"
